@@ -1,0 +1,39 @@
+{
+  "musicDatas": [
+    {
+      "id": 1,
+      "artistName": "EdSheeran",
+      "musicName": "Perfect"
+    },
+    {
+      "id": 2,
+      "artistName": "EdSheeran",
+      "musicName": "Happier"
+    },
+    {
+      "id": 3,
+      "artistName": "Taylor Swift",
+      "musicName": "Lover"
+    },
+    {
+      "id": 4,
+      "artistName": "Drake",
+      "musicName": "Nonstop"
+    },
+    {
+      "id": 5,
+      "artistName": "Kanye West",
+      "musicName": "Family Business"
+    },
+    {
+      "id": 6,
+      "artistName": "Rod Wave",
+      "musicName": "Loosing my cool"
+    },
+    {
+      "id": 7,
+      "artistName": "Lil Durk",
+      "musicName": "Let em Know"
+    }
+  ]
+}
